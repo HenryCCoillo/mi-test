@@ -37,3 +37,12 @@ git branch main
 
 Para agregar todo los archivo 
 git add .
+
+
+echo "# mi-test" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/HenryCCoillo/mi-test.git
+git push -u origin master
