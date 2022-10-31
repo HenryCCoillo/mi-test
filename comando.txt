@@ -14,7 +14,10 @@ git checkout -- .\comando.txt
 
 
 Guarda un cambio
-
+git add nombre_archivo
+Para que e guarde se tiene que comentar
+git commit -m "comentario"
 
 Ver las difrecencia del archivo
-git diff nombre_archivo
+git diff 
+
