@@ -34,3 +34,6 @@ git branch
 
 Para cambiar de rutas
 git branch main
+
+Para agregar todo los archivo 
+git add .
