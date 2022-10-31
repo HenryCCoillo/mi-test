@@ -1,0 +1,10 @@
+comadno de GIT
+
+Para iniciar proyecto Inicial de git
+git init
+
+Agregat archivos
+git add nombre_archivo
+
+Veriica si el estados
+git status 
