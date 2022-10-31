@@ -8,3 +8,13 @@ git add nombre_archivo
 
 Veriica si el estados
 git status 
+
+Vuelve el codigo que estaba al inicio
+git checkout -- .\comando.txt
+
+
+Guarda un cambio
+
+
+Ver las difrecencia del archivo
+git diff nombre_archivo
