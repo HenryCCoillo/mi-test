@@ -19,5 +19,18 @@ Para que e guarde se tiene que comentar
 git commit -m "comentario"
 
 Ver las difrecencia del archivo
-git diff 
+git diff nombre_archivo
 
+
+Para Ignorar archivo se quiene que crear el archivo .gitignore
+y adentro escribir la carpeta o archivo
+
+
+Crea un branch neva rura
+git branch logion
+
+Cuanta rutas se encuentran
+git branch
+
+Para cambiar de rutas
+git branch main
